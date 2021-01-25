@@ -46,7 +46,7 @@ int main()
 {
     cout << "Workshop 6 Example 1\n\n";
 
-    // TODO: Implement main method here.
+    // TODO: Implement the main method here.
     // Create an array
     // Calculate its mean value
     // Output both the array and its mean value

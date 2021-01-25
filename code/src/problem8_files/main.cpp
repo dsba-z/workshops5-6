@@ -46,7 +46,7 @@ int main()
     cout << "Workshop 6 Example 3\n\n";
 
 
-    // TODO: Implement main method here.
+    // TODO: Implement the main method here.
 
 
     cout << "\n\n";
