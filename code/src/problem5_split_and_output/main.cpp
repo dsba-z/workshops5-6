@@ -20,7 +20,7 @@
 #include <sstream>
 
 // TODO: Implement splitAndOutput() method here.
-void splitAndOutput(const std::string & str, char delimiter)
+void splitAndOutput(const std::string& str, char delimiter)
 {
 
 }
